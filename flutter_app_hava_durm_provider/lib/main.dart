@@ -27,10 +27,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-/*
-*
-* ChangeNotifierProvider<WeatherVeiwModel>(
-          create: (context) => locator<WeatherVeiwModel>(),
-          child: WeatherApp()),
-* */
